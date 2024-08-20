@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/LettersCalculator-ReactJS/static/css/main.7e3c52e9.chunk.css",
+    "main.js": "/LettersCalculator-ReactJS/static/js/main.3026acd4.chunk.js",
+    "main.js.map": "/LettersCalculator-ReactJS/static/js/main.3026acd4.chunk.js.map",
+    "runtime-main.js": "/LettersCalculator-ReactJS/static/js/runtime-main.de18e68d.js",
+    "runtime-main.js.map": "/LettersCalculator-ReactJS/static/js/runtime-main.de18e68d.js.map",
+    "static/js/2.ef12a611.chunk.js": "/LettersCalculator-ReactJS/static/js/2.ef12a611.chunk.js",
+    "static/js/2.ef12a611.chunk.js.map": "/LettersCalculator-ReactJS/static/js/2.ef12a611.chunk.js.map",
+    "index.html": "/LettersCalculator-ReactJS/index.html",
+    "static/css/main.7e3c52e9.chunk.css.map": "/LettersCalculator-ReactJS/static/css/main.7e3c52e9.chunk.css.map",
+    "static/js/2.ef12a611.chunk.js.LICENSE.txt": "/LettersCalculator-ReactJS/static/js/2.ef12a611.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de18e68d.js",
+    "static/js/2.ef12a611.chunk.js",
+    "static/css/main.7e3c52e9.chunk.css",
+    "static/js/main.3026acd4.chunk.js"
+  ]
+}
